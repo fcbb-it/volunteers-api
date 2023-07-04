@@ -1,0 +1,15 @@
+{
+  "port": {
+    "__name": "PORT",
+    "__format": "number"
+  },
+  "host": "HOSTNAME",
+  "authentication": {
+    "secret": "FEATHERS_SECRET"
+  },
+  "spreadsheet": {
+    "sheetId": "GOOGLE_SHEET_ID",
+    "email": "GOOGLE_EMAIL",
+    "auth": "GOOGLE_AUTH"
+  }
+}

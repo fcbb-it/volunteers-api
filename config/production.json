@@ -1,0 +1,7 @@
+{
+  "host": "EXTERNAL_HOSTNAME",
+  "port": "PORT",
+  "mongo": "DATABASE_URL",
+  "postgres": "DATABASE_URL",
+  "mssql": "DATABASE_URL"
+}
