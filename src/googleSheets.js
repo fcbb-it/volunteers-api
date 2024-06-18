@@ -1,5 +1,6 @@
 import { GoogleSpreadsheet } from 'google-spreadsheet'
 import fs from 'node:fs/promises'
+import path from 'node:path'
 
 const jsonPath = path.resolve('/etc/secrets/volunteers-api-spreadsheet.json');
 
